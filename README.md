@@ -3,8 +3,9 @@
 
 ## Integrantes
 
-* Nombre Apellido
-* Nombre Apellido
+* Angel sanchez
+* Valentino altamira
+  
 
 ## Tema
 
